@@ -1,0 +1,41 @@
+<view>
+  <view class="user flex-wrp">
+    <view class="avatar flex-item">
+      <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
+    </view>
+    <view class="user-info flex-item">
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+      <text class="edit">查看个人主页</text>
+    </view>
+  </view>
+ <view class="order-area">
+	<view bindtap="navigateToOrder" class="order" data-status="10">
+		<image src="../../../images/icon_order.png" />
+		<text>待付款</text>
+	</view>
+	<view bindtap="navigateToOrder" class="order" data-status="20">
+		<image src="../../../images/icon_order.png" />
+		<text>待发货</text>
+	</view>
+	<view bindtap="navigateToOrder" class="order" data-status="30">
+		<image src="../../../images/icon_order.png" />
+		<text>已发货</text>
+	</view>
+	<view bindtap="navigateToOrder" class="order" data-status="40">
+		<image src="../../../images/icon_order.png" />
+		<text>已完成</text>
+	</view>
+</view>
+<view bindtap="navigateToAddress" class="tableviewcell">
+	<image src="../../../images/icon_address.png" />
+	<text>我的收货地址</text>
+</view>
+<!--<view bindtap="navigateToShare" class="tableviewcell">
+	<image src="../../../images/icon_share.png" />
+	<text>扫码分享</text>
+</view>-->
+<view bindtap="navigateToAboutus" class="tableviewcell">
+	<image src="../../../images/icon_aboutus.png" />
+	<text>关于我们</text>
+</view>
+</view>
