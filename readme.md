@@ -2,15 +2,15 @@
 
 #### 首页
 
-![1555917591497](C:\Users\yjx\AppData\Roaming\Typora\typora-user-images\1555917591497.png)
+<https://github.com/yuanjinxiugithub/mini-programe/blob/master/images/index.jpg>
 
 #### 商品详情页
 
-![1555917599903](C:\Users\yjx\AppData\Roaming\Typora\typora-user-images\1555917599903.png)
+<https://github.com/yuanjinxiugithub/mini-programe/blob/master/images/detail.jpg>
 
-订单支付页
+#### 订单支付页
 
-![1555917613599](C:\Users\yjx\AppData\Roaming\Typora\typora-user-images\1555917613599.png)
+<https://github.com/yuanjinxiugithub/mini-programe/blob/master/images/pay.jpg>
 
 #### 我的
 
@@ -18,6 +18,8 @@
 
 #### 订单查看
 
-![1555917632004](C:\Users\yjx\AppData\Roaming\Typora\typora-user-images\1555917632004.png)
+<https://github.com/yuanjinxiugithub/mini-programe/blob/master/images/order2.jpg>
 
-#### ![1555917650032](C:\Users\yjx\AppData\Roaming\Typora\typora-user-images\1555917650032.png)
+
+
+<https://github.com/yuanjinxiugithub/mini-programe/blob/master/images/order1.jpg>
