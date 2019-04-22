@@ -14,7 +14,7 @@
 
 #### 我的
 
-![1555917623764](C:\Users\yjx\AppData\Roaming\Typora\typora-user-images\1555917623764.png)
+<https://github.com/yuanjinxiugithub/mini-programe/blob/master/images/me.jpg>
 
 #### 订单查看
 
